@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "appwrite": "^29.2.0",
+    "node-appwrite": "^31.2.0"
+  }
+}
